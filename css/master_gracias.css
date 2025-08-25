@@ -1,0 +1,182 @@
+#u4455
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/logo-u4455-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u4402
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/fb_black.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u4402:hover
+{
+	background: transparent url("../images/fb_over.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u4458
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/tw-black.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u4458:hover
+{
+	background: transparent url("../images/tw_over.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u4457
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/pint_black.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u4457:hover
+{
+	background: transparent url("../images/pint_over.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u4456
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/inst_black.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u4456:hover
+{
+	background: transparent url("../images/inst_over.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u4538-4
+{
+	line-height: 32px;
+	text-align: center;
+	font-size: 90px;
+	letter-spacing: 4px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+.hover
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#u4538-4:hover p,#u4538-4:hover h1
+{
+	color: #58C490;
+	visibility: inherit;
+}
+
+#u4539
+{
+	border-color: #000000;
+	background-color: #000000;
+	position: relative;
+}
+
+#u4537-6
+{
+	background-color: transparent;
+	opacity: 0.87;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=87)";
+	filter: alpha(opacity=87);
+	line-height: 29px;
+	text-align: center;
+	font-size: 24px;
+	letter-spacing: 3px;
+	color: #000000;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4471
+{
+	border-color: #000000;
+	background: #000000 url("../images/footer.jpg") no-repeat center center;
+}
+
+#u4471_align_to_page
+{
+	position: relative;
+}
+
+#u4462
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/logob2-u4462-fr.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u4474-4
+{
+	background-color: transparent;
+	line-height: 9px;
+	text-align: center;
+	font-size: 9px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u4469
+{
+	border-color: #000000;
+	background-color: #000000;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+
+#u4475-4
+{
+	background-color: transparent;
+	line-height: 9px;
+	text-align: right;
+	font-size: 9px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4467-5
+{
+	background-color: transparent;
+	line-height: 9px;
+	text-align: left;
+	font-size: 9px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u4467
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+

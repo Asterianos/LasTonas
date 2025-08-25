@@ -1,0 +1,1232 @@
+#u354-4
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	line-height: 35px;
+	text-align: left;
+	font-size: 25px;
+	color: #000000;
+	font-family: quicksand, sans-serif;
+	font-weight: 700;
+	background: transparent url("../images/flechaizq.png") no-repeat left center;
+}
+
+#u354-2
+{
+	padding-left: 15px;
+}
+
+#u365-4
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	line-height: 35px;
+	text-align: right;
+	font-size: 25px;
+	color: #000000;
+	font-family: quicksand, sans-serif;
+	font-weight: 700;
+	background: transparent url("../images/lechadrecha.png") no-repeat right center;
+}
+
+#u365-2
+{
+	padding-right: 15px;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u245
+{
+	-pie-box-shadow: 0px 1px 8px #7F7F7F;
+	box-shadow: 0px 1px 8px rgba(0,0,0,0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	position: fixed;
+}
+
+#u604
+{
+	border-color: #000000;
+	position: fixed;
+	background: transparent url("../images/fb_black.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u604:hover
+{
+	background: transparent url("../images/fb_over.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u605
+{
+	border-color: #000000;
+	position: fixed;
+	background: transparent url("../images/tw-black.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u605:hover
+{
+	background: transparent url("../images/tw_over.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u3121
+{
+	border-color: #000000;
+	position: fixed;
+	background: transparent url("../images/pint_black.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u3121:hover
+{
+	background: transparent url("../images/pint_over.gif") no-repeat center center;
+	background-size: cover;
+}
+
+#u606
+{
+	border-color: #000000;
+	position: fixed;
+	background: transparent url("../images/inst_black.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u606:hover
+{
+	background: transparent url("../images/inst_over.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u643-4
+{
+	background-color: transparent;
+	text-align: right;
+	font-size: 28px;
+	letter-spacing: 1px;
+	line-height: 34px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u246
+{
+	border-color: #000000;
+	position: fixed;
+	background: transparent url("../images/logo-horizontal.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u475
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/logo_las_tonas_head.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u243
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u2524-4
+{
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+.hover
+{
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+}
+
+#u300-4
+{
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u302-4
+{
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u303-4
+{
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u305-4
+{
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u2542-4
+{
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+#u306-4
+{
+	line-height: 22px;
+	text-align: center;
+	font-size: 18px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: fixed;
+}
+
+.js #u245.ose_pre_init,.js #u604.ose_pre_init,.js #u605.ose_pre_init,.js #u3121.ose_pre_init,.js #u606.ose_pre_init,.js #u643-4.ose_pre_init,.js #u246.ose_pre_init,.js #u2524-4.ose_pre_init,.js #u300-4.ose_pre_init,.js #u302-4.ose_pre_init,.js #u303-4.ose_pre_init,.js #u305-4.ose_pre_init,.js #u2542-4.ose_pre_init,.js #u306-4.ose_pre_init
+{
+	opacity: 0;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+	filter: alpha(opacity=0);
+}
+
+#u2525,#u2526
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2528-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2524-4:hover p,#u300-4:hover p,#u302-4:hover p,#u303-4:hover p,#u305-4:hover p,#u2542-4:hover p,#u306-4:hover p,#u2526:hover #u2528-4 p
+{
+	color: #BFBDBD;
+	visibility: inherit;
+}
+
+#u508,#u511
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u514-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u511:hover #u514-4 p
+{
+	color: #BFBDBD;
+	visibility: inherit;
+}
+
+#u522,#u523
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u524-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u523:hover #u524-4 p
+{
+	color: #BFBDBD;
+	visibility: inherit;
+}
+
+#u529,#u532
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u535-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u532:hover #u535-4 p
+{
+	color: #BFBDBD;
+	visibility: inherit;
+}
+
+#u543,#u544
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u547-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u544:hover #u547-4 p
+{
+	color: #BFBDBD;
+	visibility: inherit;
+}
+
+#u2543,#u2546
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2547-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u2546:hover #u2547-4 p
+{
+	color: #BFBDBD;
+	visibility: inherit;
+}
+
+#u550,#u553
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u555-4
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	text-align: center;
+	font-size: 18px;
+	letter-spacing: 1px;
+	line-height: 22px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u553:hover #u555-4 p
+{
+	color: #BFBDBD;
+	visibility: inherit;
+}
+
+#u2526.MuseMenuActive #u2528-4 p,#u511.MuseMenuActive #u514-4 p,#u523.MuseMenuActive #u524-4 p,#u532.MuseMenuActive #u535-4 p,#u544.MuseMenuActive #u547-4 p,#u2546.MuseMenuActive #u2547-4 p,#u553.MuseMenuActive #u555-4 p
+{
+	color: #FFFFFF;
+	visibility: inherit;
+}
+
+#u482-4
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 52px;
+	letter-spacing: 6px;
+	line-height: 52px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u485-5
+{
+	background-color: transparent;
+	text-align: center;
+	font-size: 28px;
+	letter-spacing: 6px;
+	line-height: 34px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u484-4
+{
+	text-align: center;
+	font-size: 27px;
+	letter-spacing: 6px;
+	line-height: 44px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+	background: transparent url("../images/vermas.png") no-repeat center center;
+}
+
+#u484-4:hover
+{
+	background: transparent url("../images/vermas_gris.png") no-repeat center center;
+}
+
+#u484-2
+{
+	padding-top: 4px;
+}
+
+#u719
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	border-radius: 120px;
+	position: relative;
+	background: transparent url("../images/botellasnegro.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u719:hover
+{
+	background: transparent url("../images/botellas.gif") no-repeat center center;
+	background-size: contain;
+}
+
+#u721
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	border-radius: 120px;
+	position: relative;
+	background: transparent url("../images/mixxgritona-u721-fr.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u721:hover
+{
+	background: transparent url("../images/gritona_optimizada.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u720
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	border-radius: 120px;
+	position: relative;
+	background: transparent url("../images/eventosbn-ieu720-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/eventosbn.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u720:hover
+{
+	background: transparent url("../images/eventoscolor-ieu720-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/eventoscolor.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: cover;
+}
+
+#u722
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #DEDEDE;
+	border-radius: 120px;
+	position: relative;
+	background: transparent url("../images/tradicion_normal.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u722:hover
+{
+	background: transparent url("../images/tradicion_over.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u771-4
+{
+	line-height: 8px;
+	text-align: center;
+	font-size: 22px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u718-4
+{
+	line-height: 8px;
+	text-align: center;
+	font-size: 22px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u775-4
+{
+	line-height: 8px;
+	text-align: center;
+	font-size: 22px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u774-4
+{
+	line-height: 8px;
+	text-align: center;
+	font-size: 22px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u771-4:hover p,#u718-4:hover p,#u775-4:hover p,#u774-4:hover p
+{
+	color: #7F7F7F;
+	visibility: inherit;
+}
+
+#u786
+{
+	border-color: #000000;
+	background: #FFFFFF url("../images/fondo.jpg") repeat left top;
+}
+
+#u2550
+{
+	border-color: #BFBDBD;
+	border-radius: 6px 0px 0px 6px ;
+	position: relative;
+	background: #FFFFFF url("../images/mixxgritona-u2550-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2550:hover
+{
+	background: #FFFFFF url("../images/gritona-1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2550:active
+{
+	border-radius: 6px 0px 0px 6px ;
+	background: #FFFFFF url("../images/gritona-1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2557
+{
+	border-color: #BFBDBD;
+	position: relative;
+	background: #FFFFFF url("../images/fresa-u2557-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2557:hover
+{
+	background: #FFFFFF url("../images/fresa_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2557:active
+{
+	border-radius: 0px;
+	background: #FFFFFF url("../images/fresa_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2565
+{
+	border-color: #BFBDBD;
+	border-radius: 0px 6px 6px 0px ;
+	position: relative;
+	background: #FFFFFF url("../images/mixxlimon-u2565-fr.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2565:hover
+{
+	background: #FFFFFF url("../images/mixxlimon_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u2565:active
+{
+	border-radius: 0px 6px 6px 0px ;
+	background: #FFFFFF url("../images/mixxlimon_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u990
+{
+	border-color: #000000;
+	background: transparent url("../images/medios.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u1045-5
+{
+	background-color: transparent;
+	opacity: 0.9;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=90)";
+	filter: alpha(opacity=90);
+	text-align: center;
+	font-size: 45px;
+	letter-spacing: 2px;
+	line-height: 54px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1003
+{
+	position: absolute;
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	border-radius: 10px;
+}
+
+#u1003:hover
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+}
+
+#u1003.PamphletThumbSelected
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: #FFFFFF;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton,.MenuItem,.PamphletWidget .ThumbGroup .Thumb,.PamphletNextButton,.PamphletPrevButton,.PamphletCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+#u793,#u794
+{
+	border-color: #000000;
+	background-color: #DEDEDE;
+}
+
+#u997,#u998
+{
+	border-color: #000000;
+	background-color: #FFFFFF;
+}
+
+#u949-4,#u1094-4
+{
+	text-align: center;
+	font-size: 35px;
+	letter-spacing: 4px;
+	line-height: 13px;
+	color: #000000;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1095,#u776,#u777,#u778,#u779,#u1096
+{
+	border-color: #000000;
+	background-color: #BFBDBD;
+	position: relative;
+}
+
+#u367,#u1004,#u1052
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u3250
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: transparent url("../images/logo-el-hijo-del-cuervo.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u3251
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: #FFFFFF url("../images/2%20catamundi5-ieu3251-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/2%20catamundi5.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: contain;
+}
+
+#u3249
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: transparent url("../images/3%20rodavento.png") no-repeat center top;
+}
+
+#u3252
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: #A5184F url("../images/4%20dulce%20patria-ieu3252-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/4%20dulce%20patria.png") no-repeat center center;
+	background-color: #A5184F;
+	background-size: contain;
+}
+
+#u1055
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: #F2ECE3 url("../images/5%20logo%20mezcalillera-ieu1055-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/5%20logo%20mezcalillera.jpg") no-repeat center center;
+	background-color: #F2ECE3;
+	background-size: contain;
+}
+
+#u1056
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: #FFFFFF url("../images/6%20sabra%20dios%20logo-ieu1056-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/6%20sabra%20dios%20logo.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: contain;
+}
+
+#u1058
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: #FFFFFF url("../images/8%20logo%20pasag%c3%bcero%20bipo.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1057
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: #E0DCD3 url("../images/9propsperobar2-ieu1057-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/9propsperobar2.jpg") no-repeat center center;
+	background-color: #E0DCD3;
+	background-size: contain;
+}
+
+#u7023
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: transparent url("../images/10%20logo-htyc-ieu7023-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/10%20logo-htyc.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#u7021
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: transparent url("../images/11%20capricho%20valle%20logo.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#u7020
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: #E0DCD1 url("../images/12-miranda-restaurante2-ieu7020-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/12-miranda-restaurante2.jpg") no-repeat center center;
+	background-color: #E0DCD1;
+	background-size: contain;
+}
+
+#u7022
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: #FFFFFF url("../images/13%20mercado%20capital%20logo-ieu7022-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/13%20mercado%20capital%20logo.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: contain;
+}
+
+#u1012,#u1059,#u1053,#u6997,#u7394
+{
+	border-color: #999999;
+	background-color: transparent;
+	border-radius: 15px 15px 0px 15px ;
+	position: relative;
+}
+
+#u6129,#u411,#u420,#u429,#menuu507,#u483,#u3248,#u1054,#u7019,#u7411
+{
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+}
+
+#u7412
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: #000000 url("../images/14%20cuorepizza-ieu7412-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/14%20cuorepizza.jpg") no-repeat center center;
+	background-color: #000000;
+	background-size: contain;
+}
+
+#u7413
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: transparent url("../images/15-logo_osteria-ieu7413-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/15-logo_osteria.jpg") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#u7414
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #BFBDBD;
+	border-radius: 5px;
+	position: relative;
+	background: #E0DCD1 url("../images/16-logo-irish.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u1049
+{
+	position: absolute;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #D7D7D7;
+	background-color: #BFBDBD;
+	border-radius: 10px;
+}
+
+#u1049:hover
+{
+	border-style: none;
+	background-color: #FCEE21;
+}
+
+#u1048
+{
+	position: absolute;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #D7D7D7;
+	background-color: #BFBDBD;
+	border-radius: 10px;
+}
+
+#u1048:hover
+{
+	border-style: none;
+	background-color: #FCEE21;
+}
+
+#u7003
+{
+	position: absolute;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #D7D7D7;
+	background-color: #BFBDBD;
+	border-radius: 10px;
+}
+
+#u7003:hover
+{
+	border-style: none;
+	background-color: #FCEE21;
+}
+
+#u7400
+{
+	position: absolute;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #D7D7D7;
+	background-color: #BFBDBD;
+	border-radius: 10px;
+}
+
+#u7400:hover
+{
+	border-style: none;
+	background-color: #FCEE21;
+}
+
+#u1049.PamphletThumbSelected,#u1048.PamphletThumbSelected,#u7003.PamphletThumbSelected,#u7400.PamphletThumbSelected
+{
+	border-width: 1px;
+	border-style: solid;
+	border-color: #D7D7D7;
+	background-color: #BFBDBD;
+}
+
+#u1097
+{
+	border-color: #000000;
+	background: #000000 url("../images/footer.jpg") no-repeat center center;
+}
+
+#slideshowu348,#u997_align_to_page,#u786_align_to_page,#pamphletu1000,#u1001,#u998_align_to_page,#pamphletu1046,#u1047,#u1097_align_to_page
+{
+	position: relative;
+}
+
+#u1099
+{
+	border-color: #000000;
+	position: relative;
+	background: transparent url("../images/logo_las_tonas_footer.png") no-repeat center center;
+	background-size: contain;
+}
+
+#u1117-4
+{
+	background-color: transparent;
+	line-height: 14px;
+	text-align: left;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u1108-4,#u7201-4
+{
+	background-color: transparent;
+	line-height: 9px;
+	text-align: left;
+	font-size: 9px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1118-4,#u1119-4
+{
+	background-color: transparent;
+	text-align: left;
+	font-size: 18px;
+	letter-spacing: 0px;
+	line-height: 18px;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1120-6
+{
+	background-color: transparent;
+	text-align: center;
+	color: #FFFFFF;
+	font-family: bebas-neue, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#u1120-2
+{
+	font-size: 28px;
+	line-height: 34px;
+	letter-spacing: 0px;
+}
+
+#u1120-4
+{
+	font-size: 35px;
+	line-height: 42px;
+	letter-spacing: 1px;
+}
+
+#u1116-5
+{
+	background-color: transparent;
+	line-height: 9px;
+	text-align: left;
+	font-size: 9px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u1116
+{
+	font-family: open-sans, sans-serif;
+	font-weight: 400;
+}
+
+#u1115-4
+{
+	background-color: transparent;
+	line-height: 9px;
+	text-align: right;
+	font-size: 9px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3676-4
+{
+	background-color: transparent;
+	line-height: 12px;
+	text-align: left;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3680-4,#u3677-4
+{
+	background-color: transparent;
+	line-height: 12px;
+	text-align: left;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3681-4,#u3678-4
+{
+	background-color: transparent;
+	line-height: 12px;
+	text-align: left;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3683-4
+{
+	background-color: transparent;
+	line-height: 12px;
+	text-align: left;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3679-4
+{
+	background-color: transparent;
+	line-height: 12px;
+	text-align: left;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3682-4
+{
+	background-color: transparent;
+	line-height: 12px;
+	text-align: left;
+	font-size: 12px;
+	color: #FFFFFF;
+	font-family: open-sans, sans-serif;
+	font-weight: 300;
+	position: relative;
+}
+
+#u3676-4.MuseLinkActive p,#u3677-4.MuseLinkActive p,#u3678-4.MuseLinkActive p,#u3683-4.MuseLinkActive p,#u3679-4.MuseLinkActive p,#u3682-4.MuseLinkActive p
+{
+	text-decoration: none;
+}
+
+#u1098
+{
+	border-color: #000000;
+	background-color: #000000;
+	opacity: 0.75;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=75)";
+	filter: alpha(opacity=75);
+}
+
